@@ -1,0 +1,11 @@
+# directories
+target
+cache
+node_modules
+out
+target
+
+# files
+*.env
+*.log
+.DS_Store
